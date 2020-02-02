@@ -1,0 +1,211 @@
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+/*=======*/
+.controler {
+       padding: 45px 0px;
+}
+
+/*====controler slick===*/
+.controler {
+    padding-top: 50px;
+    padding-left: 0%;
+    padding-bottom: 10px;
+}
+
+.controler .pre{
+      float: left;
+      margin: 10px 4%;
+     cursor: pointer;
+}
+
+.controler .title-school{
+    float: left;
+    font-size: 19px;
+    margin-top: 15px;
+    }
+    
+.controler .next{
+    float: left;
+    margin: 10px 4%;
+    cursor: pointer;
+}
+/*====controler slick===*/
+ /*======*/
+.custom-nav{
+    height: auto;
+}
+    
+.custom-nav a img{
+   width: 70%;
+}
+
+.custom-nav .icon-bar{
+    border: 2px solid #a54686;
+}
+
+.custom-nav .navbar-right li a{
+    color: #595959;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 8px 15px;
+    background-color: transparent;
+    margin-top: 0px;
+}
+
+.custom-nav .navbar-right li a:hover{
+    color: #fff;
+    background-color: #a54686;
+}
+/*=======*/    
+    
+ .success-item .text-desc h3{
+     text-transform: uppercase;
+     color: #fff;
+     font-size: 16px;
+     white-space: nowrap;
+    }
+    
+.success-item:hover img{
+    transform: scale(0) translateY(120%);
+    position: relative;
+    z-index: 9;
+}
+    
+ 
+.slider-main .carousel-caption{
+    display: none;
+}
+    
+.left-control {
+    position: absolute;
+    left: 5%;
+    top: 16%;
+}
+
+.right-control {
+    position: absolute;
+    right: 5%;
+    top: 16%;
+}
+  /*slider news*/ 
+    .news-event .news-item{
+        height: 64px;
+        overflow: hidden;
+    }    
+
+.news-event .news-item .news-details p{
+    padding: 0px 5px;
+    text-align: justify;
+    color: #3b3b3b;
+    font-family:OpenSans-Regular;
+    font-size: 11px;
+}
+    
+.news-event .news-item a .news-clock{
+   display:block;
+    float: left;
+    padding: 10px 5px;
+    width: 25%;
+    background-color: #00a651;
+}
+ 
+.news-event .news-item a .news-clock h4{
+    font-size: 14px;
+    text-align: center;
+}
+
+.news-event .news-item a .news-clock h3{
+     font-size: 14px;
+    text-align: center;
+}
+.news-right .right-item .news-details p{
+    color: #363636;
+    font-family:OpenSans-Regular;
+    font-size: 12px;
+}
+.news-right .right-item .news-details h5{
+    color: #7f234b;
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 0;
+    font-family:OpenSans-Semibold;
+}
+    
+.news-event .news-item .news-details{
+  display: block;  
+    width: 75%;
+     float: left;
+}
+    
+.news-event h2{
+    text-transform: uppercase;
+    color: #7f234b;
+    font-size: 22px;
+    text-align: center;
+    font-family:OpenSans-Semibold;
+    padding-bottom: 10px;
+}
+
+    
+
+/*right site*/
+.news-right .right-item{
+  margin-bottom: 15px !important; 
+  height: 60px;
+  overflow: hidden;
+}
+.news-right .right-item a .news-clock{
+   display:block;
+    float: left;
+    width: 30%;
+}
+    
+.news-right .right-item .news-details{
+   display: block;     
+    padding-left: 5%;
+    text-align: left;
+    width: 70%;
+    float: left;
+}
+    
+/*welcome item*/
+.welcome .welcome-item h5{
+     font-family:PlayfairDisplay-Italic;
+    font-size: 16px;
+     color: #636363;
+}
+    
+.welcome .welcome-item .title-school{
+    color: #7f234b;
+    font-family:Playfair-Bold;
+    text-transform: uppercase;
+    font-size: 17px;
+}
+
+.welcome .welcome-item h4{
+    padding-bottom: 22px;
+}
+
+.welcome .welcome-item h4 span{
+    padding-bottom: 22px;
+    border-bottom: 1px solid #838383;
+}
+
+
+.welcome .welcome-item p{
+    padding: 15px 0%;
+    font-family:OpenSans-Regular;
+    font-size: 14px;
+    text-align: justify;
+    color: #636363;
+    line-height: 24px;
+}
+    
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+    
+}	
+
+ 
+
